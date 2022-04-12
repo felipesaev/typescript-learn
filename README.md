@@ -3,4 +3,6 @@
 #### Topics
 > Types
 
-<code>dasdas</code>
+> Types Inference
+
+> Type Aliases e Union
