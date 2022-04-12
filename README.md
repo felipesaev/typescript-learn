@@ -1,6 +1,6 @@
-##Learn typescript.
+## Learn typescript.
 
-####Topics
+#### Topics
 > Types
 
 <code>dasdas</code>
